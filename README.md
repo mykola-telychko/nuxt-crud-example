@@ -10,6 +10,7 @@ $ yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn run dev
+(node --trace-deprecation fake-server.js)
 
 # start a fake json server using https://github.com/typicode/json-server
 $ npm install -g json-server

@@ -1,0 +1,8 @@
+
+- clear terminal cash 
+
+nvm use v16.20.2
+
+yarn run build
+error: 
+check python checking for Python executable "python2" in the PATH
